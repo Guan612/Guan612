@@ -4,6 +4,10 @@
 
 # 最近很难评价精神状态
 
+<img src="https://cn.widgetstore.net/view/index.html?q=0a4ec1f962b061f30b9e70011eb1b10b.f624ef406538704900ac891905e6bc28">
+
+
+
 
 <!--
 **Guan612/Guan612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
