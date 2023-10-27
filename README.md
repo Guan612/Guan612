@@ -4,7 +4,7 @@
 
 # 最近很难评价精神状态
 
-<img src="https://cn.widgetstore.net/view/index.html?q=0a4ec1f962b061f30b9e70011eb1b10b.f624ef406538704900ac891905e6bc28">
+<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/album/dookie/1160081985"></iframe>
 
 
 
