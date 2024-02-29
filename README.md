@@ -3,7 +3,9 @@
 ### 欢迎来到我的Github
 
 
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=很难评价最近的精神状态&center=true&size=27"> </a> </h1>
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=不问过去，不问将来&center=true&size=27"> </a> </h1>
+
+> 时光代理人
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
